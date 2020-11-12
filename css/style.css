@@ -1,0 +1,262 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+body{
+    font-family: 'Lato', sans-serif;
+}
+header{
+    background-color:#8080802b;
+    padding:40px 0px;
+    width:100%;
+    float: left;
+    overflow: hidden;
+}
+.container{
+    width:1140px;
+    margin: 0px auto;
+}
+.logo{
+    width:100%;
+    float: left;
+}
+.banner{
+    background-image: url(../images/banner.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    float: left;
+   
+
+}
+.contant{
+     width: 100%;
+     margin: 0px auto;
+     padding-top: 215px;
+     padding-bottom:93px;
+     text-align: center;
+}
+.contant h2{
+     font-size: 120px;
+     color:white;
+     font-weight: bold;
+     margin-bottom: 35px;
+
+
+}
+.contant span{
+    border-bottom: 2px solid #15a4fa;
+    display: block;
+    width: 52%;
+    margin: 0px auto;
+
+}
+.contant p{
+    font-size:20px;
+    color: white;
+    font-weight: 300;
+    margin-top: 40px;
+
+}
+.call-btn{
+    padding: 21px 35px;
+    border: 1px solid #15a4fa;
+    background-color: transparent;
+    color: white;
+    margin-top:67px;
+}
+.icon{
+    margin-top: 179px;
+    color: white;
+}
+.text{
+    width: 100%;
+    float: left;
+    background-color: #f6f9f9
+
+}
+.text-design{
+    padding-top: 80px;
+    padding-bottom: 115px;
+    text-align: center;
+    width: 100%;
+    margin: 0px auto;
+
+}
+.text-design h2{
+    font-size: 40px;
+    color:#2d3950;
+
+}
+.text-design p{
+    font-size: 20px;
+    color: #a7a8a8;
+    line-height: 30px;
+    padding: 45px;
+
+}
+.feature{
+    width: 100%;
+    float: left;
+    background-color: #ffffff;
+
+}
+
+.responsive{
+    width: 23.33%;
+    float: left;
+    margin: 0px auto;
+    text-align: center;
+    padding: 67px 0px;
+    margin-right: 47px;
+    margin-left: 47px;
+  
+
+
+}
+.responsive h5{
+    font-size: 22px;
+    color: #2d3950;
+    font-weight: bold;
+    padding-top: 35px;
+    
+
+}
+
+.responsive p{
+    color: #a7a8a8;
+    font-size: 15px;
+    padding-top:30px;
+    line-height: 20px;
+
+}
+.portfolio{
+    width: 100%;
+    float: left;
+    background-color: #f6f9f9;
+    padding:81px 0px 116px;
+
+}
+.showcase h2{
+    font-size: 41px;
+    color:#2d3950;
+    text-align: center;
+}
+.showcase p{
+    font-size: 15px;
+    color:#a7a8a8; 
+    text-align: center;
+    margin:34px 0px 84px 0px;
+
+}
+.collum{
+    width: 33.33%;
+    float: left;
+    margin-top: 15px; 
+}
+.form-sec{
+    background-image: url(../images/form.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    float: left;
+    padding: 75px 0px 111px;
+}
+    
+.login-sec{
+    width:100%;
+    float: left;
+}
+.login-sec h2{
+    font-size: 40px;
+    text-align: center;
+    color: honeydew;
+}
+.login-sec p{
+    color:#a7a8a8;
+    text-align: center;
+    margin-top:30px;
+    margin-bottom: 58px;
+
+
+}
+.fool{
+    margin-left: 238px;
+}
+.E-sec{
+    width: 70%;
+    display: block;
+    padding: 27px;
+    margin-top: 22px;
+    background-color: transparent;
+    border: 1px solid white;
+}
+.msg-sec{
+    width: 70%;
+    display: block;
+    padding: 27px;
+    margin-top: 22px;
+    background-color: transparent;
+    border: 1px solid white;
+
+}
+.checkbtn{
+    margin-top: 50px;
+    color: honeydew;
+}
+.btn-sec{
+    width: 100%;
+    float: left;
+    margin-top: 22px;
+    text-align: center;
+    
+}
+.send-btn{
+    padding: 20px 50px;
+    background-color: transparent;
+    border: 1px solid #15a4fa;
+    color: honeydew;
+    margin-left: 500px;
+    margin-top: -40px;
+
+}
+footer{
+    background-color:#8080802b;
+    padding:40px 0px;
+    width:100%;
+    float: left;
+    overflow: hidden;
+    
+}
+.copyright{
+    width:80%;
+    float: left;
+
+}
+.copyright h6{
+    color:#a7a8a8;
+    font-size: 13px
+}
+.social-link{
+    width:20%;
+    float: left;
+    
+}
+.social-link ul{
+    list-style: none;
+    
+}
+.social-link ul li{
+    float: left;
+    margin-right: 5px;
+    
+}
+.social-link ul li a{
+    background: #15a4fa;
+    padding: 10px 15px;
+    color: whitesmoke;
+    font-size: 18px;
+    border-radius: 3px;
+
+
+}
